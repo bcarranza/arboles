@@ -1,0 +1,14 @@
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.deps.json
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.runtimeconfig.json
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.dll
+/Users/bayron.carranza/Workspace/UMG/arboles/bin/Debug/net9.0/arboles.pdb
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.AssemblyInfoInputs.cache
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.AssemblyInfo.cs
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.csproj.CoreCompileInputs.cache
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.dll
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/refint/arboles.dll
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.pdb
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/arboles.genruntimeconfig.cache
+/Users/bayron.carranza/Workspace/UMG/arboles/obj/Debug/net9.0/ref/arboles.dll
